@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "leonz",
+      "firstName": "leon",
+      "lastName": "zaki",
+      "email": "leon@gmail.com",
+      "birthDate": "2020-12-31",
+      "BasicSalary": 232322,
+      "status": "Karyawan",
+      "group": "PT Sejati Group",
+      "description": "2024-03-27T04:09:49.808Z"
+    },
+    {
+      "id": "2",
+      "username": "dzakinuriyan",
+      "firstName": "Dzaki",
+      "lastName": "Nuriyan",
+      "email": "dzakinuriyan@gmail.com",
+      "birthDate": "2020-12-31",
+      "BasicSalary": 232322,
+      "status": "Kontrak",
+      "group": "PT Sejati Group",
+      "description": "2024-03-27T04:09:49.808Z"
+    }
+  ],
+  "signup": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "mobile": 81283134032,
+      "password": "12345678",
+      "id": "1"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
